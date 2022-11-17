@@ -2,9 +2,9 @@
 <img align="right" width="300" height="300" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
 
 <!-- <p>Incoming Technology Consultant at PWC <img src="https://149448277.v2.pressablecdn.com/wp-content/uploads/2018/11/PwC.png" alt="bootstrap" width="50" height="50"/></p> -->
-<p>Former Software Intern at EIU , Rakuten </p>
+<p>Former Software Intern at Rakuten, EIU </p>
 
-- 🔭 Upcoming SWE @[Samsung R&D]
+- 🔭 Software Engineer @[Samsung R&D]
 
 - 👨‍💻 Want to know more? Check out my [portfolio]()
 
